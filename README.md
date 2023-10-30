@@ -30,11 +30,10 @@ Users should be able to:
 
 ### Screenshot
 
-<div style="display: flex;">
-  <img align="top" width="150" src="./public/images/screenshot-mobile.png"/>
+<div>
   <img align="top" width="600" src="./public/images/screenshot-desktop.png"/>
+  <img align="top" width="200" src="./public/images/screenshot-mobile.png"/>
 </div>
-<!-- ![Desktop](./public/images/screenshot-desktop.png) ![Mobile](./public/images/screenshot-mobile.png) -->
 
 ### Links
 
