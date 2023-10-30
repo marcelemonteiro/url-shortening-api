@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-<p float="left"><img src="./public/images/screenshot-desktop.png" alt="Desktop Screenshot" width="600" /><img src="./public/images/screenshot-mobile.png" alt="Mobile Screenshot" width="200" /></p>
-
+<div><img align="top" width="700" src="./public/images/screenshot-desktop.png"/><img align="top" width="250" src="./public/images/screenshot-mobile.png"/></div>
+  
 ### Links
 
 - Live Site URL: [Shortly URL](https://url-shortening-api-five-kappa.vercel.app/)
