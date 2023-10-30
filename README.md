@@ -10,6 +10,10 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+  - [Author](#author)
 
 ## Overview
 
@@ -26,11 +30,31 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./public/images/screenshot-desktop.png)
-![Mobile](./public/images/screenshot-mobile.png)
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 1rem;">
+  <img src="./public/images/screenshot-desktop.png" alt="Desktop Screenshot" width="500" />
+  <img src="./public/images/screenshot-mobile.png" alt="Mobile Screenshot" width="200" />
+</div>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Shortly URL](https://url-shortening-api-five-kappa.vercel.app/)
 
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Mobile-first workflow
+- Typescript
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+
+### What I learned
+
+In this challenge I was able to practice my TypeScript, Next.js and Tailwind CSS skills. And I learned more about API requests and code structuring. 
+
+## Author
+
+- Website - [Marcele Monteiro](https://marcelemonteiro.netlify.app)
+- Frontend Mentor - [@marcelemonteiro](https://www.frontendmentor.io/profile/marcelemonteiro)
