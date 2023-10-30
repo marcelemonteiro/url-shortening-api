@@ -49,6 +49,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
+- Use [T.LY API](https://t.ly/docs) for shortening urls
 
 ### What I learned
 
