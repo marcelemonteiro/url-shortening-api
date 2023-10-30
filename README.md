@@ -30,10 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 1rem;">
-  <img src="./public/images/screenshot-desktop.png" alt="Desktop Screenshot" width="500" />
-  <img src="./public/images/screenshot-mobile.png" alt="Mobile Screenshot" width="200" />
-</div>
+<p float="left"><img src="./public/images/screenshot-desktop.png" alt="Desktop Screenshot" width="600" /><img src="./public/images/screenshot-mobile.png" alt="Mobile Screenshot" width="200" /></p>
 
 ### Links
 
